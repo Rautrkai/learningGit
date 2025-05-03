@@ -1,3 +1,3 @@
 # learningGit
-# first time learning git.
+first time learning git.
 #author -kailas rautrao
